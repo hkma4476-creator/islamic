@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Islamic Quiz",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Quiz",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Islamic Quiz Game."
+}
